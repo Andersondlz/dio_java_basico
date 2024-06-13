@@ -16,6 +16,10 @@ public class Usuario {
         projetoTv.aumentarVolume();
         projetoTv.diminuirVolume();
 
+        projetoTv.mudarCanal(90);
+        projetoTv.aumentarCanal();
+        System.out.println("O canal esta em " + projetoTv.canal);
+
         System.out.println("O volume esta em " + projetoTv.volume);
         
     }
