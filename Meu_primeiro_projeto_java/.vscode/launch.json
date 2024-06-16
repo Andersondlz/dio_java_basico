@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.anderson.primeirasemana.AboutMe",
+            "projectName": "Meu_primeiro_projeto_java_91c65146"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "edu.anderson.primeirasemana.App",
+            "projectName": "Meu_primeiro_projeto_java_91c65146"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.anderson.primeirasemana.BoletimEstudantil",
+            "projectName": "Meu_primeiro_projeto_java_91c65146"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.anderson.primeirasemana.Operadores",
+            "projectName": "Meu_primeiro_projeto_java_91c65146"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.anderson.primeirasemana.TiposVariaveis",
+            "projectName": "Meu_primeiro_projeto_java_91c65146"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.anderson.primeirasemana.Usuario",
+            "projectName": "Meu_primeiro_projeto_java_91c65146"
+        }
+    ]
+}
